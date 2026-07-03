@@ -59,6 +59,14 @@ Typical workflow:
 
 ---
 
+## Case Studies
+
+Real troubleshooting write-ups based on actual support scenarios:
+
+* [Shared Folder Is Not Accessible](docs/shared-folder-troubleshooting-case.md)
+
+---
+
 ## Future Sections
 
 This repository will continue to grow with:
