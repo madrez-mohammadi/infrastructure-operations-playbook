@@ -64,6 +64,7 @@ Typical workflow:
 Real troubleshooting write-ups based on actual support scenarios:
 
 * [Shared Folder Is Not Accessible](docs/shared-folder-troubleshooting-case.md)
+* [Printer Is Not Printing](docs/printer-troubleshooting-case.md)
 
 ---
 
