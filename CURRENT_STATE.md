@@ -1,17 +1,18 @@
 # Current State
 
-Current Phase: Phase 1  
-Current Repository: infrastructure-operations-playbook  
+Current Phase: Phase 1
+Current Repository: infrastructure-operations-playbook
 Purpose: Build credibility from real IT Operations experience before moving into Linux / Cloud / DevOps labs.
 
 Last Completed Task:
 
-- Added README navigation linking to the existing shared-folder case study.
+- Created the printer troubleshooting case study and linked it from README.
 
 Existing Files:
 
 - README.md
 - docs/shared-folder-troubleshooting-case.md
+- docs/printer-troubleshooting-case.md
 
 Repository Health:
 
@@ -23,10 +24,9 @@ Repository Health:
 Known Issues:
 
 - Real DNS case does not exist yet.
-- Printer case does not exist yet.
 - DHCP/IP conflict case does not exist yet.
 - Runbooks do not exist yet.
 
 Next Suggested Work:
 
-- Create one real case study or runbook from the approved work queue.
+- Create the DHCP / IP conflict case study next.
