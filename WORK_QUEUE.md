@@ -9,6 +9,14 @@
 - DNS Resolution Case
 - Basic Network Troubleshooting Runbook
 - New PC Setup Checklist
+
+### Pending Work
+
+- DHCP / IP Conflict Case
+- DNS Resolution Case
+- Basic Network Troubleshooting Runbook
+- New PC Setup Checklist
+
 ### Rules
 
 - Do only one meaningful task per execution.
