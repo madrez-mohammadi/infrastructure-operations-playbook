@@ -26,7 +26,3 @@ Known Issues:
 - Real DNS case does not exist yet.
 - DHCP/IP conflict case does not exist yet.
 - Runbooks do not exist yet.
-
-Next Suggested Work:
-
-- Create the DHCP / IP conflict case study next.
