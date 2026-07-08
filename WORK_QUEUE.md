@@ -12,7 +12,6 @@
 
 ### Pending Work
 
-- DHCP / IP Conflict Case
 - DNS Resolution Case
 - Basic Network Troubleshooting Runbook
 - New PC Setup Checklist
