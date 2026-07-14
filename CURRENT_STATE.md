@@ -6,13 +6,17 @@ Purpose: Build credibility from real IT Operations experience before moving into
 
 Last Completed Task:
 
-- Created the printer troubleshooting case study and linked it from README.
+- Created the DNS resolution case study and linked it from README.
 
 Existing Files:
 
 - README.md
+- WORK_QUEUE.md
+- CURRENT_STATE.md
 - docs/shared-folder-troubleshooting-case.md
 - docs/printer-troubleshooting-case.md
+- docs/dhcp-ip-conflict-troubleshooting-case.md
+- docs/dns-resolution-troubleshooting-case.md
 
 Repository Health:
 
@@ -23,6 +27,5 @@ Repository Health:
 
 Known Issues:
 
-- Real DNS case does not exist yet.
-- DHCP/IP conflict case does not exist yet.
-- Runbooks do not exist yet.
+- Basic Network Troubleshooting Runbook does not exist yet.
+- New PC Setup Checklist does not exist yet.
