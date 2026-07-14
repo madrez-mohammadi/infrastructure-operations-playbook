@@ -66,6 +66,7 @@ Real troubleshooting write-ups based on actual support scenarios:
 * [Shared Folder Is Not Accessible](docs/shared-folder-troubleshooting-case.md)
 * [Printer Is Not Printing](docs/printer-troubleshooting-case.md)
 * [IP Address Conflict Is Breaking Network Connectivity](docs/dhcp-ip-conflict-troubleshooting-case.md)
+* [DNS Resolution Is Failing While the Internet Still Seems "Up"](docs/dns-resolution-troubleshooting-case.md)
 
 ---
 
